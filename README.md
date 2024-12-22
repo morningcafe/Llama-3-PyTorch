@@ -4,16 +4,16 @@
     <a href="">
         <img alt="open-source-image"
 		src="https://img.shields.io/badge/Open%20Source%20❤%EF%B8%8F-%2325A162.svg?style=flat"
-        style="height: 20px"/>
+        style="height: 60px"/>
     </a>
     <a href="https://www.youtube.com/watch?v=lrWY4O5kUTY">
         <img alt="youtube-tutorial"
         src="https://img.shields.io/badge/YouTube Tutorial-%23FF0000.svg?logo=youtube&logoColor=white&style=flat"
-        style="height: 20px"/>
+        style="height: 60px"/>
     </a>
     <a href="https://www.buymeacoffee.com/uygarkurt" target="_blank">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" 
-        style="height: 20px"/>
+        style="height: 60px"/>
     </a>
 </div>
 <br/>
